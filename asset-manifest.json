@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shubhi1488/news_website/static/css/main.7ebd64f7.css",
+    "main.js": "/shubhi1488/news_website/static/js/main.f0d2159f.js",
+    "index.html": "/shubhi1488/news_website/index.html",
+    "main.7ebd64f7.css.map": "/shubhi1488/news_website/static/css/main.7ebd64f7.css.map",
+    "main.f0d2159f.js.map": "/shubhi1488/news_website/static/js/main.f0d2159f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ebd64f7.css",
+    "static/js/main.f0d2159f.js"
+  ]
+}
