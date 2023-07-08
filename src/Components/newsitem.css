@@ -1,0 +1,28 @@
+.newsapp{
+    display: flex;
+    justify-content: center;
+
+}
+.news-item{
+    width: 500px;
+    padding: 20px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    background-color:orange;
+
+}
+a{
+    color: black;
+    font-size: 20px;
+    text-decoration: dotted;
+}
+p{
+    color: green;
+
+
+}
+.news-img{
+    width: 400px;
+    border: 2px solid yellow;
+
+}
